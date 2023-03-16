@@ -7,7 +7,7 @@
 
 📚 I dived into software development in August 2020 and since then I fell in love ❤ with it! I enroled in a Professional Diploma in Full Stack Software Development with the Code Institute of Ireland and learned the basic foundations of front-end development using declarative languages like HTML and CSS and programming languages like Javascript and Python. I very much enjoyed learning and utilizing frameworks like Bootstrap, jQuery and Django for some of the projects I created throughout my studies.
 
-🎧 Outside the world of tech too, I I am a vinyl collector and have an eclectic taste in music – I will listen to anything, but electronic music stole my heart when I was 14 years old and my love for the genre was reignited on arrival in the UK when I discovered London’s nightlife and music scene. I have over 1000’s of vinyl in my collection.
+🎧 Outside the world of tech too, I am a vinyl collector and have an eclectic taste in music – I will listen to anything, but electronic music stole my heart when I was 14 years old and my love for the genre was reignited on arrival in the UK when I discovered London’s nightlife and music scene. I have over 1000’s of vinyl in my collection.
 
 ## 🛠 My `skills` are : 
 
