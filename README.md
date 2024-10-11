@@ -3,7 +3,7 @@
 ## Who am I ? 
 
 
-👨‍💻 My name is `Jose` and I'm a Full-Stack Software Developer nearing 3 years of experience within the **.NET** space. My primary focus is on C#, ASP.NET, and MVC, and I am very enthusiastic about learning new technologies and frameworks. My goal is to master the tech stack I am currently using and I am fully determined to do so! 
+👨‍💻 My name is `Jose` and I'm a Full-Stack Software Developer nearing 3 years of experience within the **.NET** space. My primary focus is on C#, Javascript, ASP.NET, and MVC, and I am very enthusiastic about learning new technologies and frameworks. My goal is to master the tech stack I am currently using and I am fully determined to do so! 
 
 📚 I dived into software development in August 2020 and since then I fell in love ❤ with it! I enroled in a Professional Diploma in Full Stack Software Development with the Code Institute of Ireland and learned the basic foundations of front-end development using declarative languages like HTML and CSS and programming languages like Javascript and Python. I very much enjoyed learning and utilizing frameworks like Bootstrap, jQuery and Django for some of the projects I created throughout my studies.
 
