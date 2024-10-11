@@ -13,9 +13,9 @@
 
   ### Languages
 
-![csharp](https://img.shields.io/badge/CSharp-blueviolet?style=for-the-badge&logo=CSharp&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-lightgrey?style=for-the-badge&logo=javascript&logoColor=yellow)
-![python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![csharp](https://img.shields.io/badge/CSharp-blueviolet?style=for-the-badge&logo=CSharp&logoColor=white)
+
 
   ### Front-End Development:
   
